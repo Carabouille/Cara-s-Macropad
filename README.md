@@ -17,3 +17,10 @@ to explain a little bit about what I have in my mind :
 
 I draw this, and the final version should look like this with the UwU logo on the right
 
+## PCB 
+I used KiCad and i tried to make a compact pcb(under 10 x 10cm) with private jokes with my friends and a logo with my nickname "Cara"
+
+<img src=pictures/pcbsch.png width="300"/>
+
+<img src=pictures/pcb.png width="300"/>
+

@@ -11,7 +11,7 @@ The inserts for the screws do not appear here, but they will of course be added 
 
 However, I am motivated to improve this CAD after the holidays.
 
-I used Solidworks because Fusion is... is Fusion :)
+I used Solidworks because Fusion is... is Fusion :)\n
 in french we often say "en sah Fusion ca pue sa mère quand meme"
 to explain a little bit about what I have in my mind : 
 
@@ -20,7 +20,7 @@ to explain a little bit about what I have in my mind :
 I draw this, and the final version should look like this with the UwU logo on the right
 
 ## PCB 
-I used KiCad and i tried to make a compact pcb(under 10 x 10cm) with private jokes with my friends and a logo with my nickname "Cara"
+I used KiCad and I tried to make a compact pcb(under 10 x 10cm) with private jokes with my friends and a logo with my nickname "Cara"
 
 <img src=pictures/pcbsch.png width="300"/>
 

@@ -64,9 +64,9 @@ thanks to the HackLab community the goatest community
 
 thanks to my mum for creating me
 
-Thank you, Guyom, for not doing anything special on this project
+thanks Guyom, for not doing anything special on this project
 
-thanks David Mercier to help me to become a great hacker 
+thanks David Mercier, to help me to become a great hacker 
 
 Thanks to photosynthesis for creating the oxygen that I breathe
 

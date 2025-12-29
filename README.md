@@ -7,6 +7,7 @@ my awesome DIY macropad for the hackpad project. Using a screen OLED, 6 switchs,
 
 I know what you're thinking. and I agree with you it's not very handsome.
 BUT I discover this project less than a week ago and with a deadline of January 1 and Christmas, New years.... I don't have time to really make a nice case ;-;
+
 The inserts for the screws do not appear here, but they will of course be added before printing.
 
 However, I am motivated to improve this CAD after the holidays.

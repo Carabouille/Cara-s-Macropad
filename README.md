@@ -58,10 +58,15 @@ Here's the list of parts for my project!
 ## Special thanks
 
 I want to thank my friend Pylou (love u my boy) for introducing me to the project (a little bit late :)))
+
 thanks to the HackLab community the goatest community 
+
 thanks to my mum for creating me
+
 Thank you, Guyom, for not doing anything special on this project
+
 thanks David Mercier to help me to become a great hacker 
+
 Thanks to photosynthesis for creating the oxygen that I breathe
 
 

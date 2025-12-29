@@ -11,7 +11,8 @@ The inserts for the screws do not appear here, but they will of course be added 
 
 However, I am motivated to improve this CAD after the holidays.
 
-I used Solidworks because Fusion is... is Fusion :)\n
+I used Solidworks because Fusion is... is Fusion :)
+
 in french we often say "en sah Fusion ca pue sa mère quand meme"
 to explain a little bit about what I have in my mind : 
 

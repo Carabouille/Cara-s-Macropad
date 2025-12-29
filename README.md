@@ -3,6 +3,8 @@ my awesome DIY macropad for the hackpad project. Using a screen OLED, 6 switchs,
 
 ##CAD
 <img src=pictures/case.png width="300"/>
+
+
 I know what you're thinking. and I agree with you it's not very handsome.
 BUT I discover this project less than a week ago and with a deadline of January 1 and Christmas, New years.... I don't have time to really make a nice case ;-;
 However, I am motivated to improve this CAD after the holidays.
